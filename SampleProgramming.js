@@ -1,3 +1,5 @@
 console.log("Welcome to GIT/GITHUB")
 console.log("WELCOME to CI/CD PIPELINES")
 console.log("Welcome to JavaScript Programming Language")
+console.log("Welcome to Auotomation Testing through PlayWright")
+console.log("Enhance Your Automation Skills for Future Perspective")
